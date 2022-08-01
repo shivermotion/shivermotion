@@ -6,7 +6,6 @@
 ![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=221a1c)
-![](https://img.shields.io/badge/Material UI-informational?style=for-the-badge&logo=Material-UI&logoColor=white&color=221a1c)
 
 
 
