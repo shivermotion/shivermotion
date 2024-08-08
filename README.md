@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/PostMan-informational?style=for-the-badge&logo=PostMan&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/TRPC-informational?style=for-the-badge&logo=TRPC&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/Expo-informational?style=for-the-badge&logo=Expo&logoColor=white&color=221a1c)
-![](https://img.shields.io/badge/ReactNative-informational?style=for-the-badge&logo=ReactNative&logoColor=white&color=221a1c)
+![](https://img.shields.io/badge/React-Native-informational?style=for-the-badge&logo=React&logoColor=white&color=221a1c)
 
 
 
