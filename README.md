@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=221a1c)
 ![](https://img.shields.io/badge/PostMan-informational?style=for-the-badge&logo=PostMan&logoColor=white&color=221a1c)
+![](https://img.shields.io/badge/TRPC-informational?style=for-the-badge&logo=TRPC&logoColor=white&color=221a1c)
 
 
 
